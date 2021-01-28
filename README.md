@@ -50,6 +50,8 @@ post http data to remote server using URLSessionDataTask
  2. iOS' hot key.
  
     dot to shall default param for augment.
+    
+    https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_7/main/dot.png
 
 
 
