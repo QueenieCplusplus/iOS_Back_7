@@ -51,7 +51,9 @@ post http data to remote server using URLSessionDataTask
  
     dot to shall default param for augment.
     
-    https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_7/main/dot.png
+    ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_7/main/dot.png)
 
 3. setup for Timeout Interval.
+
+    ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_7/main/Timeout%20Interval.png)
 
