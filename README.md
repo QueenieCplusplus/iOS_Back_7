@@ -53,5 +53,5 @@ post http data to remote server using URLSessionDataTask
     
     https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_7/main/dot.png
 
-
+3. setup for Timeout Interval.
 
